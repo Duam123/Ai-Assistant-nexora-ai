@@ -1,1 +1,29 @@
-A beautiful luxury pink perfume bottle on a marble table, soft pink background, elegant studio lighting, realistic product photography, highly detailed, premium commercial advertisement
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Database
+*.db
+*.sqlite3
+
+# Frontend
+node_modules/
+dist/
+
+# Uploaded documents and generated images
+backend/uploads/
+backend/generated/
+
+# Editor and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
