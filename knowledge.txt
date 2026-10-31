@@ -1,0 +1,7 @@
+AURA AI is a local AI research assistant.
+
+It uses language models to answer questions.
+It can search documents and retrieve relevant information.
+Embeddings help represent text as numerical vectors.
+RAG combines document retrieval with language generation.
+AURA AI is built using Python and open-source AI tools.
